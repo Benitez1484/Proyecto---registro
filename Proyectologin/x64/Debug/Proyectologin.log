@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Falta el archivo requerido "C:\USERS\LENOVO\DOWNLOADS\BUNIFU_UI_V1.52.DLL".
+  Proyectologin.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Proyectologin.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Proyectologin.vcxproj -> E:\Documentos\000.3\PROGRAMAS\PROGRAMA_PORTAFOLIO\Proyecto - registro\Proyecto-Derecho-main\x64\Debug\Proyectologin.exe

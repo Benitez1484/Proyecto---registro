@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.Proyectologin.resources
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Proyectologin\Proyectologin\x64\Debug\Proyectologin.vcxproj.CopyComplete
+E:\Documentos\000.3\PROGRAMAS\PROGRAMA_PORTAFOLIO\Proyecto - registro\Proyecto-Derecho-main\Proyectologin\x64\Debug\Proyectologin.vcxproj.AssemblyReference.cache
+E:\Documentos\000.3\PROGRAMAS\PROGRAMA_PORTAFOLIO\Proyecto - registro\Proyecto-Derecho-main\Proyectologin\x64\Debug\Proyectologin.Proyectologin.resources
+E:\Documentos\000.3\PROGRAMAS\PROGRAMA_PORTAFOLIO\Proyecto - registro\Proyecto-Derecho-main\Proyectologin\x64\Debug\Proyectologin.vcxproj.GenerateResource.cache
+E:\Documentos\000.3\PROGRAMAS\PROGRAMA_PORTAFOLIO\Proyecto - registro\Proyecto-Derecho-main\Proyectologin\x64\Debug\Proyecto.00F2E1B9.Up2Date
